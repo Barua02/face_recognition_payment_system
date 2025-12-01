@@ -1,5 +1,5 @@
 
-# Face Recognition System
+# Face Recognition Payment System
 
 This project implements a complete face recognition pipeline using Python, OpenCV, and TensorFlow/Keras. It is designed for applications such as canteen payment systems, where real-time face recognition and user information display are required.
 
@@ -65,4 +65,5 @@ Y_dic = {
 ---
 
 **Author:** Your Name
+
 **Date:** December 2025

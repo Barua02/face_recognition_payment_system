@@ -11,16 +11,9 @@ This project implements a complete face recognition pipeline using Python, OpenC
 - **Training & Evaluation:** Train the CNN, evaluate its accuracy, and save the model and weights.
 - **Real-Time Recognition:** Perform live face recognition and display user info (ID, balance, consumption) on video frames.
 
-## Folder Structure
-```
-face_recognition.ipynb         # Main Jupyter notebook with all steps
-faceReco.weights.h5            # Saved model weights
-final_faceReco.h5              # Saved complete model
-haarcascade_frontalface_default.xml # Haar cascade for face detection
-face_img/                      # Raw captured face images
-small_face/                    # Cropped face images by user
-README.md                      # Project documentation
-```
+## Data Collection
+- 100 Image
+  <img width="1672" height="782" alt="image" src="https://github.com/user-attachments/assets/851188c4-7ea9-40c4-b66b-65c897a855eb" />
 
 ## Setup Instructions
 1. **Install Requirements:**
@@ -43,6 +36,12 @@ README.md                      # Project documentation
 	  4. **Model Building:** Build and compile the CNN.
 	  5. **Training:** Train the model and save it.
 	  6. **Real-Time Recognition:** Run live recognition and display user info.
+## Small_face
+<img width="1683" height="820" alt="image" src="https://github.com/user-attachments/assets/12de94c0-c1cb-4653-ac78-4d1ce35a6f43" />
+
+## Output
+<img width="777" height="802" alt="d3410b4a98a491f07e78d63196bfc43f" src="https://github.com/user-attachments/assets/82922e6b-c616-4a2c-8fcb-2eddcb060ecc" />
+
 
 ## Usage Notes
 - For real-time recognition, you may need a font file (e.g., `simhei.ttf`) for displaying Chinese text.
@@ -67,3 +66,4 @@ Y_dic = {
 **Author:** Your Name
 
 **Date:** December 2025
+

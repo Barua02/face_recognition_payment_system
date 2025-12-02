@@ -13,7 +13,7 @@ This project implements a complete face recognition pipeline using Python, OpenC
 
 ## Data Collection
 - 100 Image
-  <img width="1672" height="782" alt="image" src="https://github.com/user-attachments/assets/851188c4-7ea9-40c4-b66b-65c897a855eb" />
+  <img width="1731" height="835" alt="image" src="https://github.com/user-attachments/assets/7462c7e2-bd3d-4265-95e1-3d47c9708d92" />
 
 ## Setup Instructions
 1. **Install Requirements:**
@@ -66,4 +66,5 @@ Y_dic = {
 **Author:** Your Name
 
 **Date:** December 2025
+
 
